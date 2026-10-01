@@ -1,0 +1,42 @@
+PORTAFOLI DE DESENVOLUPADOR - BIEL PEREZ
+=========================================
+
+1. QUI SOC (PERFIL)
+-------------------
+Soc el Biel Perez, estudiant del Grau Superior en Desenvolupament
+d'Aplicacions Multiplataforma (DAM). Anteriorment vaig cursar SMX
+(Sistemes Microinformatics i Xarxes), cosa que m'ha donat una base en
+sistemes, xarxes i administracio informatica.
+
+M'agrada entendre com funcionen les aplicacions i posar en practica el
+que aprenc amb projectes i exercicis. El meu objectiu es millorar com a
+desenvolupador, aprendre bones practiques de programacio i construir
+projectes cada cop mes complets i ben estructurats.
+
+Contacte: alu.biel.perez@mataro.epiaedu.cat
+
+
+2. EINES QUE DOMINO (TECH STACK)
+--------------------------------
+Llenguatges:
+  - Java
+  - SQL
+  - HTML i CSS
+
+Eines:
+  - Git i GitHub
+  - IntelliJ IDEA
+  - Visual Studio Code
+
+Coneixements de base (SMX):
+  - Sistemes operatius i administracio de sistemes
+  - Xarxes
+
+
+3. BITACOLA DE FEINA
+--------------------
+(Una linia per cada practica o activitat: data - que he fet - que he apres)
+
+01/10/2026 - Creacio del portafoli.txt i del repositori portafoli-dam a
+             GitHub. Primer flux de treball amb Git des del terminal
+             (init, add, commit, push).
